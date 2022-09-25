@@ -1,0 +1,27 @@
+
+.left-heading {
+    float:left;
+    width:20%;
+}
+
+
+.right-heading {
+    float:right;
+    width:80%;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    width: 200px;
+  }
+
+
+.container {
+    width:90%;
+}
+
+
+.exp-table th,td{
+    border:1px solid black;
+  }
+
